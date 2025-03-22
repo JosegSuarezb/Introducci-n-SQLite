@@ -1,2 +1,2 @@
 # Introduccion-SQLite
-En este repositorio encontraras trabajos realizados durante el curso de Introduccion al BI donde se trabajo con el lenguage de programacion SQLite
+In this repository you will find work done during the Introduction to BI course where we worked with the SQLite programming language.
